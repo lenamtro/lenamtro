@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: b22mosoe@uco.es
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: en el instituto odiaba la asignatura de Biología pero ahora estudio la carrera de Biología
+- Estoy editando la segunda rama en clase
 
