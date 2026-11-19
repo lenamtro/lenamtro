@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: en el instituto odiaba la asignatura de Biología pero ahora estudio la carrera de Biología
 - Estoy editando la segunda rama en clase
+- Ahora estoy editando otra rama
 
